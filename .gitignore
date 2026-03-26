@@ -4,9 +4,12 @@ _site/
 claude.txt
 .jekyll-cache/
 .jekyll-metadata
-vendor/
+/vendor/
+.bundle/
 Gemfile.lock
 .DS_Store
 .claude/
 Readme.txt
 forms/
+PROGRESS.md
+
