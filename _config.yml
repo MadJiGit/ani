@@ -1,0 +1,27 @@
+# Site settings
+title: Anita Hristova
+email: hello@anitahristova.com
+description: Personal portfolio website showcasing professional experience and projects
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://anitahristova.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins: []
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Collections (ако искаш да добавиш блог или проекти по-късно)
+# collections:
+#   projects:
+#     output: true
+#     permalink: /:collection/:name/

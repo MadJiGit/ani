@@ -1,1 +1,12 @@
 /origin
+.idea/
+_site/
+claude.txt
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+Gemfile.lock
+.DS_Store
+.claude/
+Readme.txt
+forms/
